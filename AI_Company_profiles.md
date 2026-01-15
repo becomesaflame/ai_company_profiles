@@ -23,6 +23,7 @@ Neoclouds are newer, often more specialized cloud providers that focus on niche 
 | Vultr | A global cloud infrastructure provider offering a full range of cloud services including compute, storage, and networking, with a focus on ease of use, affordability, and global presence, including dedicated cloud GPU instances for AI development. |
 | Crusoe | Focuses on sustainable, energy-efficient computing by leveraging stranded energy sources (such as flared natural gas) to power modular data centers, offering high-performance GPU infrastructure primarily for AI model training and large language model development. |
 | RunPod | Developer-focused GPU cloud platform providing on-demand access to 30+ GPU types through dedicated instances and serverless endpoints, featuring FlashBoot technology for industry-leading cold start times and dual infrastructure options from community-sourced to enterprise-grade data centers. |
+| Hot Aisle | An AMD-exclusive cloud provider offering on-demand bare metal and virtualized MI300X/MI355x GPU instances with no-contract provisioning, enterprise compliance (SOC2, HIPAA), and 100% renewable energy operations optimized for AI/ML workloads and LLM training. |
 
 # **GPU Marketplaces**
 
