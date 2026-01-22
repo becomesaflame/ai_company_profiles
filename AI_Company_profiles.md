@@ -99,6 +99,7 @@ These companies provide frameworks, tools, and platforms that simplify the devel
 | Modal | A serverless, container-based platform for running generative AI models and compute-intensive Python code with simple deployment, automatic scaling, and GPU support. |
 | Replicate | Allows developers to run, deploy, and fine-tune machine learning models in the cloud with a simple API, hosting thousands of open-source models and supporting custom model deployment. |
 | Together AI | Provides cloud infrastructure and API endpoints for running, fine-tuning, and deploying open-source AI models with optimized inference and training capabilities. |
+| Fireworks AI | An AI inference platform offering serverless access to 400+ optimized open-source models with fast inference, fine-tuning capabilities including LoRA and quantization-aware tuning, and flexible deployment options from serverless to on-demand GPUs and bring-your-own-cloud solutions. |
 | Brev | A cloud platform providing instant access to GPU instances across multiple cloud providers with pre-configured development environments including CUDA, Python, and Jupyter Lab for AI/ML development. |
 
 # **AI Hardware and Chip Companies**
