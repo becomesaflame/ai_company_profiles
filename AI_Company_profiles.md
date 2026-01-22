@@ -113,6 +113,14 @@ These companies design and manufacture specialized hardware and chips optimized 
 | SambaNova | Provides AI hardware platforms using Reconfigurable Dataflow Unit (RDU) chips with dataflow architecture for efficient training and inference of large-scale AI models, offered through both cloud services and on-premise deployments. |
 | Groq | Develops Language Processing Units (LPUs) using temporal computing architecture, focused on ultra-fast, deterministic inference for large language models with industry-leading tokens-per-second performance and predictable latency. |
 
+# **AI Networking Infrastructure**
+
+These companies build specialized networking hardware and solutions designed specifically for AI workloads, enabling efficient communication and data transfer at scale for large AI systems.
+
+| Company | Blurb |
+| :---- | :---- |
+| Upscale AI | Develops purpose-built networking silicon and infrastructure for AI systems at scale, featuring the SkyHammer architecture. Emphasizes open standards through participation in UEC, UAL, and SONiC consortiums, providing high-performance networking solutions for AI workloads with focus on openness, interoperability, and scalability. |
+
 # **Enterprise AI and Data Science Platforms**
 
 These companies provide comprehensive platforms that enable enterprises to build, deploy, and manage AI and machine learning solutions, often with focus on business users and data scientists.
