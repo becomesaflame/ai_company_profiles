@@ -34,7 +34,8 @@ GPU marketplaces are platforms that allow users to rent or lease GPU resources f
 | Fluidstack | A decentralized computing platform that allows users to rent high-performance GPUs globally for AI training, rendering, and other intensive computations from a network of providers. |
 | Vast AI | Offers a vast marketplace for renting and selling decentralized cloud GPU computing power, catering to individuals and organizations looking for flexible and cost-effective AI infrastructure. |
 | Akash Network | A decentralized, open-source cloud computing marketplace that allows users to buy and sell cloud resources, including GPU compute, utilizing blockchain technology for transparency and efficiency. |
-| Aranya | A platform for decentralized or peer-to-peer sharing of specialized AI hardware, connecting developers with underutilized, high-end compute clusters globally for cost-effective training and inference. |
+| Aarna | Silicon Valley GPU Cloud Management Software provider offering a SaaS-based marketplace that aggregates GPU inventory across multiple providers with unified billing, featuring SOC 2 compliance and cloud brokering capabilities. Acquired by Armada to advance GPU-as-a-Service for AI Factory and edge deployments. |
+| Aranya | Enables deployment of 1000+ node GPU clusters in minutes with no manual setup, featuring automatic recycling of unused compute to cut cloud costs by up to 30% and a unified dashboard for overseeing, scaling, and updating hundreds of clusters at any scale. |
 | Shadeform | A GPU cloud marketplace that aggregates access to GPU instances across 20+ cloud providers through a unified API and console, providing real-time availability and pricing data for optimal resource allocation. |
 
 # **MLOps and Development Platforms**
@@ -98,6 +99,7 @@ These companies provide frameworks, tools, and platforms that simplify the devel
 | Weights & Biases | Provides MLOps tools for experiment tracking, model management, dataset versioning, and collaboration for machine learning teams. |
 | Modal | A serverless, container-based platform for running generative AI models and compute-intensive Python code with simple deployment, automatic scaling, and GPU support. |
 | Replicate | Allows developers to run, deploy, and fine-tune machine learning models in the cloud with a simple API, hosting thousands of open-source models and supporting custom model deployment. |
+| Baseten | Provides ML infrastructure for deploying models of any size and modality to production with pure Python code using the open-source Truss library, featuring blazing-fast cold starts, 99.99% uptime, multi-cloud scaling, and a training platform for fine-tuning open-source models. Partners with Google Cloud and NVIDIA for enterprise-grade performance. |
 | Together AI | Provides cloud infrastructure and API endpoints for running, fine-tuning, and deploying open-source AI models with optimized inference and training capabilities. |
 | Fireworks AI | An AI inference platform offering serverless access to 400+ optimized open-source models with fast inference, fine-tuning capabilities including LoRA and quantization-aware tuning, and flexible deployment options from serverless to on-demand GPUs and bring-your-own-cloud solutions. |
 | Brev | A cloud platform providing instant access to GPU instances across multiple cloud providers with pre-configured development environments including CUDA, Python, and Jupyter Lab for AI/ML development. |
